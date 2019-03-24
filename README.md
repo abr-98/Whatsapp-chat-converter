@@ -1,6 +1,8 @@
 # Whatsapp_chat_scrapper
 Python code to scrap whatsapp chat data
+and writes it in a text file
 
+PLEASE DONT INTERRUPT THE WHATSAPP WEB WHILE SCRAPING THE DATA
 
 For this you will need the selenium library
 
